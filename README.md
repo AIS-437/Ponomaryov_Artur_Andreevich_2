@@ -546,22 +546,19 @@ A/B-тестирования и автоматического восстано�
 
 # Список литературы
 
-1.  Linux ip command documentation \[Электронный ресурс\]
-    // [Kernel.org](https://kernel.org/). URL: <https://www.kernel.org/doc/Documentation/networking/ip-command.txt> (дата
-    обращения: 15.11.2025).
 
-2.  Iptables Tutorial \[Электронный ресурс\]
+1.  Iptables Tutorial \[Электронный ресурс\]
     // [Netfilter.org](https://netfilter.org/). URL: <https://www.netfilter.org/documentation/> (дата
     обращения: 15.11.2025).
 
-3.  Ufw - Uncomplicated Firewall \[Электронный ресурс\] // Ubuntu
+2.  Ufw - Uncomplicated Firewall \[Электронный ресурс\] // Ubuntu
     Documentation. URL: <https://help.ubuntu.com/community/UFW> (дата
     обращения: 15.11.2025).
 
-4.  Linux Network Administrator\'s Guide \[Электронный ресурс\] //
+3.  Linux Network Administrator\'s Guide \[Электронный ресурс\] //
     O\'Reilly Media.
     URL: <https://www.oreilly.com/library/view/linux-network-administrators/0596005482/> (дата
     обращения: 14.11.2025).
 
-5.  Карпов В.Е. Сети и сетевые сервисы в Linux. --- СПб.:
+4.  Карпов В.Е. Сети и сетевые сервисы в Linux. --- СПб.:
     БХВ-Петербург, 2023. --- 560 с.
